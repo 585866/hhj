@@ -22,7 +22,7 @@
 
 <script>
     export default {
-        name: "HomeRecommend",
+      name: "HomeRecommend",
       props:{
           list:Array
       }

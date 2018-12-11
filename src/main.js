@@ -10,6 +10,8 @@ import 'swiper/dist/css/swiper.css'
 import 'styles/reset.css'
 import 'styles/border.css'
 import 'styles/iconfont.css'
+import '../src/common/font/iconfont.css'
+import '../src/common/font/iconfont'
 Vue.config.productionTip = false
 fastClick.attach(document.body)
 Vue.use(VueAwesomeSwiper)
